@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/APSL/react-native-keyboard-aware-scroll-view.git"
+        "url": "git+https://github.com/kimho/react-native-keyboard-aware-scroll-view.git"
     },
     "tags": [
         "react",
@@ -32,9 +32,9 @@
     "author": "Alvaro Medina Ballester <me@alvaromb.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/APSL/react-native-keyboard-aware-scroll-view/issues"
+        "url": "https://github.com/kimho/react-native-keyboard-aware-scroll-view/issues"
     },
-    "homepage": "https://github.com/APSL/react-native-keyboard-aware-scroll-view#readme",
+    "homepage": "https://github.com/kimho/react-native-keyboard-aware-scroll-view#readme",
     "dependencies": {
         "prop-types": "^15.6.2",
         "react-native-iphone-x-helper": "^1.0.3"
